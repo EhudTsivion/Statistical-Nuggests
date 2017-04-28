@@ -3,4 +3,4 @@
 .ipynb_checkpoints/Plotting a normal distribution-checkpoint.ipynb
 .ipynb_checkpoints/The Z Score or Standard score-checkpoint.ipynb
 .ipynb_checkpoints/Calculating and plotting confidence intervals-checkpoint.ipynb
-*.ipynb
+.ipynb_checkpoints/
